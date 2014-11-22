@@ -7,5 +7,5 @@
 HUBOT_LASTFM_APIKEY
 
 ##### Commands:
-hubot what's <last FM user> playing  - Returns song name and artist
+hubot what's (last FM username) playing  - Returns song name and artist   
 hubot what am I playing - only works if last.fm nick = username who typed it

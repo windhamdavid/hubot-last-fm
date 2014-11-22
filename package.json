@@ -1,0 +1,27 @@
+{
+  "name": "hubot-last-fm",
+  "description": "Last.fm for Hubot",
+  "version": "1.0.0",
+  "author": "David Windham",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/windhamdavid/hubot-last-fm.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/windhamdavid/hubot-last-fm/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.8"
+  },
+
+  "main": "index.coffee"
+}
